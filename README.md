@@ -19,14 +19,11 @@ Este es el primer proyecto del equipo 22 para SODVI.
 Monopolio Espacial es un juego tipo Space Invaders con la variación de implementar distintos movimientos 
 sobre rieles además del tradicional movimiento horizontal.
 ## **Descripción del proyecto:**
+Monopilo espacial es un juego estilo Space Invaders, contiene las mecánicas básicas del juego original. 
 
-En este apartado, incluiras una descripción detallada de cómo se llevó a cabo la creación de tu proyecto y las razones detrás de las decisiones que tomaste.
-
-Además, adjuntar al menos cinco imágenes que muestran el proceso de trabajo, junto con su correspondiente descripción del proyecto.
-
+Las imágenes pueden consultarse en el PDF
 ## **Conclusión:** 
 
-Para finalizar, cada miembro del equipo presentará una conclusión que resumirá los logros y aprendizajes obtenidos durante el desarrollo de este proyecto.
 
 <!-- Cuando entregues tu documentación, por favor, borra todo lo que esté debajo. -->
 <div align="center">
