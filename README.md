@@ -23,8 +23,11 @@ Monopilo espacial es un juego estilo Space Invaders, contiene las mecánicas bá
 
 Las imágenes pueden consultarse en el PDF
 ## **Conclusión:** 
-
-
+Sara Matute - música: Aprendi que no me gusta hacer la música,igual aprendi varias cosas que francamente dudo usar.
+No lo volveria a hacer.
+Sam Charlize- manager: Creo que al ser manager tenia bastante presion y estres para que todo saliera bien pero
+tambien fue divertido estar en este proyecto con amigos e inventar cosas, tambien aprendi varias cosas de las demas ramas como musica, coder y artista, al final creo que se logro y nuestros esfuerzos valieron la pena.
+Nelly Hernández- artista: Aprendí a que debe 
 <!-- Cuando entregues tu documentación, por favor, borra todo lo que esté debajo. -->
 <div align="center">
 <br>
