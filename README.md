@@ -9,10 +9,10 @@ sobre rieles además del tradicional movimiento horizontal.
 
 **Integrantes:**
 
--MANAGER: Samantha Palomo
--CODER: Alan Cruz 
--MÚSICO: Sara Matute
--ARTISTA: Nelly Hernández
+* MANAGER: Samantha Palomo
+* CODER: Alan Cruz 
+* MÚSICO: Sara Matute
+* ARTISTA: Nelly Hernández
 
 **Semestre:** 2024-1
 
