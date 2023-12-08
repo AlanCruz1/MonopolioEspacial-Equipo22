@@ -7,7 +7,10 @@ using UnityEngine.SceneManagement;
 public class PlayerLives : MonoBehaviour
 {
 	public int lives = 3;
+	private int vidasP= 0;
 	public Image[] livesUI;
+	public GameObject parent;
+	public AudioSource hitsound;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,9 +25,12 @@ public class PlayerLives : MonoBehaviour
     
     private void OnCollisionEnter2D(Collision2D collision){
     	if(collision.collider.gameObject.tag == "Enemy"){
-    		Destroy(collision.gameObject); 
-    		lives -=1;
-    		for(int i = 0;i<livesUI.Length;i++){
+    		Destroy(collision.gameObject);
+			hitsound.Play();
+			lives -=1; 
+			parent.transform.GetChild(vidasP).gameObject.SetActive(false);
+			vidasP+=1;
+			for(int i = 0;i<livesUI.Length;i++){
     			if(i<lives){
     			
     				livesUI[i].enabled = true;

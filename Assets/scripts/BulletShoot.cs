@@ -6,6 +6,7 @@ public class BulletShoot : MonoBehaviour
 {
 //Referencia al prefab
 	public GameObject bulletPrefab;
+    public AudioSource shootSound;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,6 +19,7 @@ public class BulletShoot : MonoBehaviour
     //EL fire1 se refiere al botón de disparo, duh
         if(Input.GetButtonDown("Fire1")){
         //Cada vez que presionas el botón de fire se instancia una bala en el juego
+             shootSound.Play();
              Instantiate(bulletPrefab, transform.position, Quaternion.identity);
         //Primero lo que instancias, dónde lo spawneas, para no rotarlo
         }
